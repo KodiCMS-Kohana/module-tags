@@ -19,6 +19,7 @@
 		"source":   "https://github.com/KodiCMS/module-tags"
 	},
 	"require": {
-		"kodicms/core": "dev-master"
+		"kodicms/core"	: "dev-master",
+		"kodicms/pages"	: "dev-master"
 	}
 }
